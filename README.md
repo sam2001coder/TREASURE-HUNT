@@ -37,5 +37,4 @@ All the links are encrypted, you have to solve the clue,enter the password and c
 Team E'lectronique'</p><br>
 <a href="https://linkenc.net/BKjjpEju.SdhZh0qDEAUXDGE~lBqyq-kqWsByXCaZuUvCHqhIlyRuVRX5sxHQZjjiSz~jF45n2yPRvIVt-Co1VWLRjL6L2BdGYOuD3p0fRfNXcpGIQ1RwbvPTZe2A8zNgZud-8w!">Enter the Password</a>
 
-</body>
-</html>
+
