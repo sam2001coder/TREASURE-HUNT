@@ -1,4 +1,4 @@
- <!doctypehtml>
+ 
 <html>
 <head>
 <centre><strong>Tresurehunt</strong></centre>
