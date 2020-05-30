@@ -10,7 +10,7 @@
  
 <ol>
  <li>
-  <p>☑️Qualified participants from first round will proceed to second round.</li> <br>
+  <p>☑️Qualified participants from first round will proceed to second round.<br>
 
 
 <li>In second round you will be provided a encrypted URL link.</li> <br>
@@ -25,9 +25,8 @@
 
 
 
-<ul>🖱️You may use various networking sites , but all in a seperate tab.⌨️🖥️</p> </ul>
+<p>🖱️You may use various networking sites , but all in a seperate tab.⌨️🖥️</p> 
 
-</ol>
 
  </ul>
 
@@ -48,7 +47,7 @@
 ☑️While opening the link on a seperate tab, copy it first somewhere and then again look for the link🔙, if there is an exclamation mark(!) at the last of the link it is usually not copied, You must place exclamation mark(!)  yourself at the last of copied link and then search for it. Without exclamation mark(!), error will occur❌ </li> <br>
 </ol> 
 
-</ul>
+
 
 
 
