@@ -28,7 +28,7 @@
 <p>🖱️You may use various networking sites , but all in a seperate tab.⌨️🖥️</p> 
 
 
- </ul>
+ 
 
 
 <ul><p>Note:<br>
