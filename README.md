@@ -56,7 +56,7 @@
 
 <p>Regards<br>
 Team E'lectronique'</p><br>
-<a href="https://linkenc.net/XiYtLWTo2oMPJvTIPkF7lQYqLwdW3N-mU4Ld7Udm1hL79NHSpcuX.xWeus20A~6M.ZL1iB5padYZHs~Eq-PA5JxC.7XRFXBWAftzA!"><button>Enter the Password</button></a>
+<a href="https://sam2001coder.github.io/Clue1/"><button>WELCOME TO TREASURE HUNT</button></a>
 
 
 
