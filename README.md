@@ -17,7 +17,7 @@
 
 
 
-<li>On clicking the link you have to write a password(we will tell you at time of link sharing)👀👀, on entering the password you have to click on  decrypt link and you will get the link for first clue👀 </li> <br>
+
 
 
 
@@ -43,8 +43,8 @@
 ☑️For example if answer for a clue is Naman Gupta then you must enter namangupta ,else it will lead to error❌</li><br>
 
 
-<li>
-☑️While opening the link on a seperate tab, copy it first somewhere and then again look for the link🔙, if there is an exclamation mark(!) at the last of the link it is usually not copied, You must place exclamation mark(!)  yourself at the last of copied link and then search for it. Without exclamation mark(!), error will occur❌ </li> <br>
+
+
 </ol> 
 
 
@@ -60,3 +60,4 @@ Team E'lectronique'</p><br>
 
 
 
+ 
